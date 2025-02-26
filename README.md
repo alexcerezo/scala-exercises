@@ -1,6 +1,6 @@
 # Advanced Programming 2 - Scala Exercises
 
-![Scala logo](https://cdn-icons-png.flaticon.com/512/6132/6132220.png)
+![Scala logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThGO3P6suSZJz4UUk4wIL14WFMaQyRpFTM9w&s)
 
 Este repositorio contiene los ejercicios prácticos y soluciones realizadas para la asignatura **Advanced Programming 2**, con un enfoque en el uso del lenguaje de programación **Scala**. Los ejercicios cubren diversos temas avanzados de programación y están orientados a fortalecer los conceptos clave de programación funcional y otros paradigmas avanzados.
 
